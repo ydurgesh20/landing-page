@@ -1,0 +1,13 @@
+h1{
+    text-align:center;
+    width: 50%;
+    font-size: large;
+    color: brown;    
+}
+
+body{
+    background-color: bisque;
+}
+head{
+    background-color: aquamarine;
+}
